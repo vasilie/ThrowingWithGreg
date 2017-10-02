@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 1b2dec6504e7a6648b91c6619c751acc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inspector_malone14_0
+    21300002: inspector_malone14_1
+    21300004: inspector_malone14_2
+    21300006: inspector_malone14_3
+    21300008: inspector_malone14_4
+    21300010: inspector_malone14_5
+    21300012: inspector_malone14_6
+    21300014: inspector_malone14_7
+    21300016: inspector_malone14_8
+    21300018: inspector_malone14_9
+    21300020: inspector_malone14_10
+    21300022: inspector_malone14_11
+    21300024: inspector_malone14_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 70
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: inspector_malone14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 123
+        height: 192
+      alignment: 9
+      pivot: {x: .435485929, y: .423245668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 183
+        width: 48
+        height: 69
+      alignment: 9
+      pivot: {x: .547233582, y: .0892743096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .783401489, y: .714697659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 135
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .185109451, y: .740460932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: .419028133, y: .766224921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .531487346, y: .757637024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 45
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: .553981245, y: .755060852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 42
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: .526989877, y: .789698482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 42
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: .513494611, y: .821187496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 42
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: .513493121, y: .755060554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: .271704793, y: .79520911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: inspector_malone14_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: .271703929, y: .830634177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

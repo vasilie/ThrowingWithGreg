@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 893268563c911884e807c39fafd5e7e6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chopped-steve_0
+    21300002: chopped-steve_1
+    21300004: chopped-steve_2
+    21300006: chopped-steve_3
+    21300008: chopped-steve_4
+    21300010: chopped-steve_5
+    21300012: chopped-steve_6
+    21300014: chopped-steve_7
+    21300016: chopped-steve_8
+    21300018: chopped-steve_9
+    21300020: chopped-steve_10
+    21300022: chopped-steve_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chopped-steve_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 220
+        width: 36
+        height: 84
+      alignment: 9
+      pivot: {x: .446971357, y: .869305193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 252
+        width: 40
+        height: 52
+      alignment: 9
+      pivot: {x: .798284531, y: .812051654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 208
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 252
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: .569599807, y: .165921018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 20
+        height: 64
+      alignment: 9
+      pivot: {x: .380686581, y: .857941866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 40
+        height: 88
+      alignment: 9
+      pivot: {x: .535794079, y: .857942045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 180
+        width: 48
+        height: 44
+      alignment: 9
+      pivot: {x: .25142923, y: .803708136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 136
+        width: 36
+        height: 16
+      alignment: 9
+      pivot: {x: .234857872, y: .559657097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 104
+        width: 28
+        height: 72
+      alignment: 9
+      pivot: {x: .636359096, y: .831427872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 16
+        height: 68
+      alignment: 9
+      pivot: {x: .589485168, y: .836886466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 72
+        width: 36
+        height: 16
+      alignment: 9
+      pivot: {x: .248115122, y: .559657097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: chopped-steve_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 24
+        width: 24
+        height: 60
+      alignment: 9
+      pivot: {x: .678970993, y: .778399169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
